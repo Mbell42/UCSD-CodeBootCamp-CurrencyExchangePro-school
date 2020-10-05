@@ -1,0 +1,23 @@
+{
+  "name": "CurrencyExchangePro-school",
+  "version": "1.0.0",
+  "description": "This is my first group project for class.  We built a currency-app together that can convert any currency into another currency, store/display your search history, and send a text message of the most recent search details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mbell42/CurrencyExchangePro-school.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mbell42/CurrencyExchangePro-school/issues"
+  },
+  "homepage": "https://github.com/Mbell42/CurrencyExchangePro-school#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
