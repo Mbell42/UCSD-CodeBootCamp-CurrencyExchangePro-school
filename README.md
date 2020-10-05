@@ -12,11 +12,11 @@ This is my first group project for class.  We built a currency-app together that
 
 ### Front-End
 
-HTML
-CSS
+HTML,
+CSS,
 Javascript
 
 ### Back-End
 
-NodeJs
+NodeJs,
 Express
